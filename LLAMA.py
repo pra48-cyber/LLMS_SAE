@@ -8,7 +8,7 @@ os.environ["TOKENIZERS_PARALLELISM"] = "false"
 from huggingface_hub import login
 
 # PASTE YOUR ACTUAL TOKEN INSIDE THE QUOTES BELOW:
-login(token="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")
+login(token="Enter Your Token ID")
 
 # ============================================================
 
